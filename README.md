@@ -1,4 +1,4 @@
-**Reverse Image Search** 
+###Reverse Image Search
 
 This Java Project uses DCT(Discrete Cosine Transform) to reduce the frequencies and Hamming Distance to computer similarity between two Images.
 
