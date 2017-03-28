@@ -8,8 +8,8 @@ import javax.imageio.ImageIO;
 
 public class DCT {
  
-        public int ImageSize = 64;
-        public int size = 16;
+        public int ImageSize = 32;
+        public int size = 8;
        
 
         double[] c;
