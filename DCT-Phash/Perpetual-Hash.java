@@ -16,7 +16,7 @@ class Phash{
             
             int similar = dct.distance(img1,img2);
             System.out.println("Number of bits not matched : "+similar);
-          	if(similar<70){
+          	if(similar<10){
           		System.out.println("Images are similar");
           	}
           	else
